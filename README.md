@@ -1,6 +1,6 @@
 # _Mr. Roboger's Neighborhood_
 
-####_This is a practice webpage that will return a curated response based on a number provided by the user_
+_This is a practice webpage that will return a curated response based on a number provided by the user_
 
 #### By _Sage Sypert_
 
