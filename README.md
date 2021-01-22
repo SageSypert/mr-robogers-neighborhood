@@ -22,8 +22,8 @@ _Mr. Roboger's Neighborhood is basic webpage that will return a series of number
 
 ## Setup/Installation Requirements
 
-* _To view this webpage, follow this link in a modern browser_
-* _You can also use git to make a copy of this project with your terminal by inputting the following commands:  $cd directory (of your choice), then:  git clone https://github.com/sagesypert/mr-robogers-neighborhood.git_
+* _To view this webpage, follow this [link](https://sagesypert.github.io/mr-robogers-neighborhood/) in a modern browser_
+* _You can also use git to make a copy of this project with your terminal by inputting the following commands:  $ cd directory (of your choice), then:  $ git clone https://github.com/sagesypert/mr-robogers-neighborhood.git_
 * _Remove all remotes pointing to my directory by typing:  $ git remote rm origin_
 * _Add your own remote repository by typing:  $ git remote add (location nickname) followed by your repository's URL_
 * _Access your copied files wherever you prefer to code! You can do this by typing in your terminal:  $ code ._
@@ -32,19 +32,19 @@ _Mr. Roboger's Neighborhood is basic webpage that will return a series of number
 
 Describe: userInputArray(numbers)
 
-Test: If any number inputted by user contains a 1 it is returned with the word "Beep!"
+Test: If any number inputted by user contains a 1 it is returned with the word "Beep!"  
 Expect: userNumber.push(beep)
 
-Test: If any number inputted by user contains a 2 it is returned with word "Boop!"
+Test: If any number inputted by user contains a 2 it is returned with word "Boop!"  
 Expect:  userNumber.push(boop)
 
-Test: If any number inputted by user contains a 3 it is returned with word "Won't you be my neighbor?"
+Test: If any number inputted by user contains a 3 it is returned with word "Won't you be my neighbor?"  
 Expect:  userNumber.push(neighbor)
 
-Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?"
+Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?"  
 Expect:  return userNumber
 
-Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?". Program will still include range of other numbers not matching those conditions in the string.
+Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?". Program will still include range of other numbers not matching those conditions in the string.  
 Expect:  return userNumber
 
 ## Known Bugs
