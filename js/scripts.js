@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("form#enter-number").submit(function(event) {
-    
+  $("form#formOne").submit(function(event) {
+
   }
 }
