@@ -1,10 +1,10 @@
-// Describe: userNumber.push(words)
-// Test: If any number contains a 1 it is returned with the word "Beep!"
-// Expect: User-inputted number + "Beep!"
+// Describe: userInputArray(numbers)
+// Test: If any number inputted by user contains a 1 it is returned with the word "Beep!"
+// Expect: userNumber.push(beep)
 
-// Describe:
-// Test:
-// Expect: 
+// Describe: userInputArray(numbers)
+// Test: If any number inputted by user contains a 2 it is returned with word "Boop!"
+// Expect:  userNumber.push(boop)
 
 // User Interface Logic: 
 
@@ -21,9 +21,9 @@ $(document).ready(function() {
 
 // Business Logic:
 
-const beep = "Beep!"
-const boop = "Boop!"
-const neighbor = "Won't you be my neighbor?"
+  const beep = "Beep!"
+  const boop = "Boop!"
+  const neighbor = "Won't you be my neighbor?"
 
 function userInputArray(numbers) {
   let userNumber = [];
