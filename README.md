@@ -1,6 +1,6 @@
 # _Mr. Roboger's Neighborhood_
 
-#### _This is a basic webpage that will return a series of words and numbers based on the input of the user_
+####_This is a practice webpage that will return a curated response based on a number provided by the user_
 
 #### By _Sage Sypert_
 
@@ -14,20 +14,19 @@
 *_GitHub_
 *_Git Bash_
 *_Visual Studio Code_
+*_Google Chrome Developer Tools_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_Mr. Roboger's Neighborhood is basic webpage that will return a series of numbers and words that are generated depending on the number the user submits. For every "1" in the chosen number, it will be replaced by the word "Beep!". For every "2" in the chosen number, it will be replaced by the word "Boop!". For every "3" in the chosen number, it will be replaced by the phrase "Won't you be my neighbor?". User can enter a new number at any time._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
+* _To view this webpage, follow this link in a modern browser_
+* _You can also use git to make a copy of this project with your terminal by inputting the following commands:  $cd directory (of your choice), then:  git clone https://github.com/sagesypert/mr-robogers-neighborhood.git_
+* _Remove all remotes pointing to my directory by typing:  $ git remote rm origin_
+* _Add your own remote repository by typing:  $ git remote add (location nickname) followed by your repository's URL_
+* _Access your copied files wherever you prefer to code! You can do this by typing in your terminal:  $ code ._
 
 ## Specs
 

@@ -4,4 +4,4 @@
 
 2021-01-22 12:12:39 - Deleting scripts and starting over with new idea :(
 
-  2021-01-22 13:11:08 - Was able to get page to properly function but now it isn't and I'm not sure what I did wrong. Researching and tweaking with Dev tools to debug
+2021-01-22 13:11:08 - Was able to get page to properly function but now it isn't and I'm not sure what I did wrong. Researching and tweaking with Dev tools to debug

@@ -36,16 +36,16 @@ $(document).ready(function() {
 function userInputArray(numbers) {
   let userNumber = [];
   for (let index = 0; index <= numbers; index += 1) {
-    const words = index.toString();
+    const input = index.toString();
 
-    if (words.includes(3)) {
+    if (input.includes(3)) {
       userNumber.push(neighbor);
-    } else if (words.includes(2)) {
+    } else if (input.includes(2)) {
       userNumber.push(boop);
-    } else if (words.includes(1)) {
+    } else if (input.includes(1)) {
       userNumber.push(beep);
     } else {
-      userNumber.push(words);
+      userNumber.push(input);
     }
   }
   return userNumber;
