@@ -39,7 +39,6 @@ function userInputArray(numbers) {
     } else {
       userNumber.push(words);
     }
-    console.log("loop index: " +index);
   }
   return userNumber;
 }
