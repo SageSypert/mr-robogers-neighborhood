@@ -10,11 +10,11 @@ _This is a practice webpage that will return a curated response based on a numbe
 * _CSS_
 * _Javascript_
 * _jQuery_
-*_Bootstrap_
-*_GitHub_
-*_Git Bash_
-*_Visual Studio Code_
-*_Google Chrome Developer Tools_
+* _Bootstrap_
+* _GitHub_
+* _Git Bash_
+* _Visual Studio Code_
+* _Google Chrome Developer Tools_
 
 ## Description
 
