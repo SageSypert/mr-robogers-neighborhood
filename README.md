@@ -1,6 +1,6 @@
 # _Mr. Roboger's Neighborhood_
 
-#### _{Brief description of application}_
+#### _This is a basic webpage that will return a series of words and numbers based on the input of the user_
 
 #### By _Sage Sypert_
 
