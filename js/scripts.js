@@ -1,6 +1,6 @@
-// Describe: numberInput(number)
+// Describe: numberNumber.push(words)
 // Test: If any number contains a 1 it is returned with the word "Beep!"
-// Expect: 
+// Expect: User-inputted number + "Beep!"
 
 // User Interface Logic: 
 
@@ -9,7 +9,8 @@ $(document).ready(function() {
     event.preventDefault();
     const number = ($("input#number").val());
     const userResult = userInputArray(number);
-    $
+    $("#resultNotice").show();
+    $("#resultNumbers").text(userResult);
   });
 });
 
@@ -21,7 +22,7 @@ const neighbor = "Won't you be my neighbor?"
 
 function userInputArray(numbers) {
   let userNumber = [];
-  for (let i = 0; index <= numbers; index += 1) {
+  for (let index = 0; index <= numbers; index += 1) {
     const words = index.toString();
 
     if (words.includes(3)) {
