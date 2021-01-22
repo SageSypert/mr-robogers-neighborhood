@@ -30,17 +30,33 @@ _Mr. Roboger's Neighborhood is basic webpage that will return a series of number
 
 ## Specs
 
+Describe: userInputArray(numbers)
 
+Test: If any number inputted by user contains a 1 it is returned with the word "Beep!"
+Expect: userNumber.push(beep)
+
+Test: If any number inputted by user contains a 2 it is returned with word "Boop!"
+Expect:  userNumber.push(boop)
+
+Test: If any number inputted by user contains a 3 it is returned with word "Won't you be my neighbor?"
+Expect:  userNumber.push(neighbor)
+
+Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?"
+Expect:  return userNumber
+
+Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?". Program will still include range of other numbers not matching those conditions in the string.
+Expect:  return userNumber
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No Known Issues_
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_MIT License_
+
+Copyright (c) 2021 Sage Sypert
 
 ## Contact Information
 
-_{Add your contact information here.}_
+_Sage Sypert <sage.sypert@gmail.com>_

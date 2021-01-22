@@ -29,14 +29,14 @@ $(document).ready(function() {
 
 // Business Logic:
 
-  const beep = "Beep!"
-  const boop = "Boop!"
-  const neighbor = "Won't you be my neighbor?"
-
 function userInputArray(numbers) {
   let userNumber = [];
   for (let index = 0; index <= numbers; index += 1) {
     const input = index.toString();
+
+    const beep = "Beep!"
+    const boop = "Boop!"
+    const neighbor = "Won't you be my neighbor?"
 
     if (input.includes(3)) {
       userNumber.push(neighbor);
