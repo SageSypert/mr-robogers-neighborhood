@@ -16,6 +16,7 @@ h1 {
   padding-bottom: 20px;
   color:rgb(129, 173, 211);
   font-weight: bold;
+  text-shadow: 2px 1px 2px lightgray;
 }
 
 h2 {
@@ -25,5 +26,9 @@ h2 {
 }
 
 p {
+  color:slategrey;
+}
+
+#number {
   color:slategrey;
 }
