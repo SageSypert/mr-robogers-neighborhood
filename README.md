@@ -28,24 +28,24 @@ _Mr. Roboger's Neighborhood is basic webpage that will return a series of number
 * _Add your own remote repository by typing:  $ git remote add (location nickname) followed by your repository's URL_
 * _Access your copied files wherever you prefer to code! You can do this by typing in your terminal:  $ code ._
 
-## Specs
+## Specifications
 
-Describe: userInputArray(numbers)
+**Describe:** userInputArray(numbers)
 
-Test: If any number inputted by user contains a 1 it is returned with the word "Beep!"  
-Expect: userNumber.push(beep)
+**Test:** If any number inputted by user contains a 1 it is returned with the word "Beep!"  
+**Expect:** userNumber.push(beep)
 
-Test: If any number inputted by user contains a 2 it is returned with word "Boop!"  
-Expect:  userNumber.push(boop)
+**Test:** If any number inputted by user contains a 2 it is returned with word "Boop!"  
+**Expect:**  userNumber.push(boop)
 
-Test: If any number inputted by user contains a 3 it is returned with word "Won't you be my neighbor?"  
-Expect:  userNumber.push(neighbor)
+**Test:** If any number inputted by user contains a 3 it is returned with word "Won't you be my neighbor?"  
+**Expect:**  userNumber.push(neighbor)
 
-Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?"  
-Expect:  return userNumber
+**Test:** Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?"  
+**Expect:**  return userNumber
 
-Test: Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?". Program will still include range of other numbers not matching those conditions in the string.  
-Expect:  return userNumber
+**Test:** Program will recognize when a number contains 1,2, or 3 and return with a string of numbers replacing 1,2, or 3 with "beep, "boop", or "Won't you be my neighbor?". Program will still include range of other numbers not matching those conditions in the string.  
+**Expect:**  return userNumber
 
 ## Known Bugs
 
