@@ -12,11 +12,14 @@ body {
 }
 
 h1 {
+  padding-top: 50px;
+  padding-bottom: 20px;
   color:rgb(129, 173, 211);
   font-weight: bold;
 }
 
 h2 {
+  padding-bottom: 20px;
   color: rgb(129, 173, 211);
   font-style: italic;
 }
